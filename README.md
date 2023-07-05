@@ -4,4 +4,4 @@ A simple Vita choose your own adventure text game
 Just a super simple nostalgic text adventure PS Vita homebrew.
 <p>
 <p>
-![ScreenShot](17-textquest.jpg)
+![Alt text](17-textquest.jpg?raw=true "Screenshot")
