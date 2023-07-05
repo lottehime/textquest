@@ -1130,7 +1130,7 @@ int main()
  	psvDebugScreenPrintf("                                          `              V                '       \n");
  	psvDebugScreenSetFgColor(COLOR_GREY);
  	psvDebugScreenPrintf("                                     A simple choose your own adventure text game                       \n");
- 	psvDebugScreenPrintf("                                                     by josh_axey                          \n");
+ 	psvDebugScreenPrintf("                                                                               \n");
  	psvDebugScreenPrintf("                                                                                              \n");
  	psvDebugScreenPrintf("                                                                                              \n");
  	psvDebugScreenSetFgColor(COLOR_WHITE);
