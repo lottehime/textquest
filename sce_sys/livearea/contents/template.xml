@@ -38,38 +38,38 @@
 		<liveitem> <lang>en</lang>
 			<image valign="bottom" origin="frame" align="left" image-align="left" image-valign="bottom" width="200" height="62" x="-209">logo1.png
 			</image>
-			<target>https://github.com/joshaxey</target>  
+			<target>https://github.com/lottehime</target>  
 		</liveitem>
 		<liveitem> <lang>en-gb</lang>
 			<image valign="bottom" origin="frame" align="left" image-align="left" image-valign="bottom" width="200" height="62" x="-209">logo1.png
 			</image>
-			<target>https://github.com/joshaxey</target>  
+			<target>https://github.com/lottehime</target>  
 		</liveitem>
 		<liveitem> <lang>ja</lang>
 			<image valign="bottom" origin="frame" align="left" image-align="left" image-valign="bottom" width="200" height="62" x="-209">logo1.png
 			</image>
-			<target>https://github.com/joshaxey</target>
+			<target>https://github.com/lottehime</target>
 		</liveitem>
 	</frame>
 
 	<frame id="frame4">
 		<liveitem> <lang>en</lang>
 			<text align="right" text-align="right" word-wrap="off" ellipsis="on">
-				<str size="18" color="#f3f315" bold="on" shadow="on">By @josh_axey</str>
+				<str size="18" color="#f3f315" bold="on" shadow="on">By @lotte_hime</str>
 			</text>
-			<target>https://twitter.com/Josh_Axey</target>
+			<target>https://twitter.com/lotte_hime</target>
 		</liveitem>
 		<liveitem> <lang>en-gb</lang>
 			<text align="right" text-align="right" word-wrap="off" ellipsis="on">
-				<str size="18" color="#f3f315" bold="on" shadow="on">By @josh_axey</str>
+				<str size="18" color="#f3f315" bold="on" shadow="on">By @lotte_hime</str>
 			</text>
-			<target>https://twitter.com/Josh_Axey</target>
+			<target>https://twitter.com/lotte_hime</target>
 		</liveitem>
 		<liveitem> <lang>ja</lang>
 			<text align="right" text-align="right" word-wrap="off" ellipsis="on">
-				<str size="18" color="#f3f315" bold="on" shadow="on">@josh_axeyことで</str>
+				<str size="18" color="#f3f315" bold="on" shadow="on">@lotte_himeことで</str>
 			</text>
-			<target>https://twitter.com/Josh_Axey</target>
+			<target>https://twitter.com/lotte_hime</target>
 		</liveitem>
 	</frame>
 
